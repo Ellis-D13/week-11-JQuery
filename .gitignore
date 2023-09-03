@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+bower_components/
+
+# env files
+.env
+
+# OS generated
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# build output
+/dist
+/build
+
+# IDE
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# temp
+.cache/
+.sass-cache/
+
+# user-specific
+*.sublime-project
+*.sublime-workspace
+
+# database
+*.sqlite
+
+# other
+.gitignore.save
